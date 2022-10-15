@@ -1,0 +1,207 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    gap: 25px;
+}
+
+
+.container {
+    background-color: rgb(0, 0, 0);
+    height: 600px;
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+
+.imagenfea {
+
+height: 600px;
+margin-bottom: 20px;
+position: absolute;
+width: 100%;
+
+}
+
+#title {
+
+color: rgb(255, 254, 254);
+font-family: 'Comfortaa', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+font-size: 300%;
+
+
+}
+
+
+.bar {
+    background-color: rgb(255, 109, 109);
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    background-color: rgba(128, 128, 128, 0.274);
+    position: relative;
+    width: 100%;
+}
+
+.bar img {
+    width: 25px;
+}
+
+.bar button {
+    background-color: transparent;
+    border: 0ch;
+    cursor: pointer;
+}
+
+.prof {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex: 1;
+    margin-left: 90px;
+    margin-right: 0px;
+    cursor: pointer;
+}
+
+.bar h5 {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: flex-end;
+    margin-left: 15px;
+    position: relative;
+    
+}
+
+.options {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+
+
+}
+
+.played {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+
+
+}
+
+
+.saved {
+
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+
+
+}
+
+#butts {
+
+    height: 80px;
+    width: 200px;
+    border-radius: 30px;
+    background-color: rgba(128, 128, 128, 0.314);
+    border: 0ch;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#butts p {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#butts img{
+
+    height: 40px;
+    width: 40px;
+    
+
+}
+
+#buttx {
+
+    height: 80px;
+    width: 200px;
+    border-radius: 30px;
+    background-color: rgba(128, 128, 128, 0.322);
+    border: 0ch;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+#buttx p {
+    color: aliceblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+}
+
+#buttx img{
+
+    height: 40px;
+    width: 40px;
+    
+}
+
+.container {
+    color: azure;
+
+}
+
+.serie1{
+
+display: flex; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aliceblue;
+width: 20px;
+border-radius: 10px;
+
+}
+
+.serie1 :hover{
+    transform: scale(1.025);
+
+}
+
+button{
+    display: block;
+}
+
+.pain{
+    padding: 10px;
+}
+
+
+.main{
+
+
+flex-direction: column;
+color: white;
+
+}
+
+.row {
+
+display: flex;
+flex-direction: row;
+
+}
+
+.content{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
