@@ -15,6 +15,7 @@ class Peliplu {
     }
 
 }
+//test
 
 let strangerThings = new Peliplu('./assets/st2.jpg','./assets/ST1.jpg','./assets/fivestars.png', 'STRANGER THINGS','lol niños & hell I guess','stranger')
 let monsterHigh = new Peliplu('./assets/mhb.jpg','./assets/MH.jpg','./assets/fivestars.png', 'MONSTER HIGH','cool monsters with high clothes budget','monster')
