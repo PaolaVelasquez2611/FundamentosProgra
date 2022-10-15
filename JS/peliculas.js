@@ -20,7 +20,7 @@ class Peliplu {
 let strangerThings = new Peliplu('./assets/st2.jpg','./assets/ST1.jpg','./assets/fivestars.png', 'STRANGER THINGS','lol niños & hell I guess','stranger')
 let monsterHigh = new Peliplu('./assets/mhb.jpg','./assets/MH.jpg','./assets/fivestars.png', 'MONSTER HIGH','cool monsters with high clothes budget','monster')
 let myLittlePony = new Peliplu('./assets/mlpb.webp','./assets/MLP.jpg','./assets/fivestars.png', 'MY LITTLE PONY','The Power of Friendship >','my')
-let friends = new Peliplu('./friendsb.webp','./friendst.webp','./assets/fivestars.png', 'FRIENDS','A bunch of guys drinking coffee and talking about life','friends')
+let friends = new Peliplu('./assets/friendsb.webp','./assets/friendst.webp','./assets/fivestars.png', 'FRIENDS','A bunch of guys drinking coffee and talking about life','friends')
 let bigBangTheory = new Peliplu('./assets/bbtb.jpg','./assets/bbtt.jpg','./assets/fivestars.png', 'BIG BANG THEORY','Science is Fun','bbt')
 let gameofThrones = new Peliplu('./assets/gotb.jpg','./assets/gott.png','./assets/fivestars.png', 'GAME OF THRONES','Everyone hates Joffrey','got')
 let avatar = new Peliplu('./assets/avtb.jpg','./assets/avtt.jpg','./assets/fivestars.png', 'AVATAR','Long ago the fire nation attacked','avatar')
